@@ -1,4 +1,4 @@
-Debuggind the **Cash Withdrawal** app
+Debugging the **Cash Withdrawal** app
 
 ### Refer to the image below:
 
